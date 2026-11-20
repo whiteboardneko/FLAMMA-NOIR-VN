@@ -761,7 +761,7 @@ screen about():
             if gui.about:
                 text "[gui.about!t]\n"
 
-            text _("This game was made with {a=https://www.renpy.org/}Ren`Py{/a} [renpy.version_only] for game programming course project at Universitas Negeri Surabaya by Group 3 International Class. \n\nOfficial Game Website: \n {a=https://rentsaisy.github.io/FLAMMA-NOIR-website-game-promotion/} https://flammanoir.com{/a}")
+            text _("This game was made with {a=https://www.renpy.org/}Ren`Py{/a} [renpy.version_only] for game programming course project at Universitas Negeri Surabaya by Group 3 International Class. \n\nOfficial Game Website: \n {a=https://whiteboardneko.github.io/FLAMMA-NOIR-website-game-promotion/} https://flammanoir.com{/a}")
 
 style about_label is gui_label
 style about_label_text is gui_label_text
